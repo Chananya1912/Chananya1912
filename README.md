@@ -54,17 +54,7 @@ I'm a passionate full-stack developer focused on building scalable web applicati
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chananya1912&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chananya1912&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chananya1912&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
-
----
 
 ## 📂 Featured Projects
 
