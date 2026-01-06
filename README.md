@@ -45,13 +45,15 @@ I'm a passionate full-stack developer focused on building scalable web applicati
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
----
 
 ## 📝 Languages
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
