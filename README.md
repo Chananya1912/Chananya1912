@@ -14,7 +14,7 @@ I'm a passionate full-stack developer focused on building scalable web applicati
 - 💻 Specialized in **Full-Stack Development** (MERN Stack)
 - 🎯 Building real-time collaborative applications
 - 📚 Always learning and documenting my journey
-- 📍 Based in Kharar, Punjab, India
+- 📍 Based in Amritsar, Punjab, India
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/chananya-arora-50aba2290)
 
 ---
@@ -42,10 +42,16 @@ I'm a passionate full-stack developer focused on building scalable web applicati
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 ---
 
+## 📝 Languages
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </div>
 ## 📊 GitHub Statistics
 
 <div align="center">
