@@ -61,6 +61,9 @@ I'm a passionate full-stack developer focused on building scalable web applicati
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chananya1912&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chananya1912&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
+
 ---
 
 ## 📂 Featured Projects
