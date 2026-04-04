@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IZ/giphy.gif" width="28px" alt="wave"/> 
-  <strong>Full-Stack Developer | MERN Stack Enthusiast | Technical Content Creator</strong>
+  <strong>Full-Stack Developer | MERN Stack Enthusiast</strong>
 </div>
 
 ---
