@@ -64,9 +64,6 @@ I'm a passionate full-stack developer focused on building scalable web applicati
 ### 🔹 Node.js & Express
 **Backend development** focusing on REST APIs, middleware, and database connectivity with MongoDB and JDBC.
 
-### 🔹 Java Projects
-**OOP principles** and **database connectivity** using JDBC for robust enterprise applications.
-
 ### 🔹 MongoDB Database
 **NOSQL database design** with complex queries, aggregation framework, and data modeling practices.
 
